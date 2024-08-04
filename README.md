@@ -1,1 +1,2 @@
 # Liver-Tumor-Segmentation-
+This project leverages deep learning techniques to automatically segment liver tumors from CT scans, utilizing ResNet50 and DenseNet architectures. With a dataset of 131 scans, we aim to develop robust algorithms for early detection, enhancing diagnostic capabilities and improving patient outcomes in liver cancer management. This work aligns with the Liver Tumor Segmentation Challenge, contributing to advancements in automated medical imaging.
